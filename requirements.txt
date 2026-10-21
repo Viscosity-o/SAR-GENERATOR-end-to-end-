@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+python-multipart
+supabase
+sqlalchemy
+psycopg2-binary
+psycopg[binary]
+boto3
+xgboost
+scikit-learn
+joblib
+pandas
+numpy
+langgraph
+groq
